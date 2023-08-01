@@ -1,2 +1,1 @@
-# misc
-just a place to store things
+# Statsmodels GMM Examples
